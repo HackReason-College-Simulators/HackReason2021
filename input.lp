@@ -1,5 +1,4 @@
 major(cs).
-doublemajor.
 interest(math).
 interest(prog).
 interest(robot).
