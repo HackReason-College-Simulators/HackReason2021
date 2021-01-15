@@ -19,19 +19,18 @@ II.) Usage:
 	1. ) Create or edit input.txt: 
 		In input.txt, select a major from (cs,ce,se,ee,bmen,mech) and state if one has one or more interests in(math, circuitry, construction, science, programming, comp_networks, robotics ) 
 	2. ) run user_input.py: 
-		Using Python version 3, execute "python user_input.py" in terminal. This will generate input.lp    
+		Using Python version 3 or later, execute "python user_input.py" in terminal. This will generate input.lp    
 	3. ) run main.py: 
-		Using Python version 3, execute "python main.py" in terminal.This will generate the main.lp
+		Using Python version 3 or later, execute "python main.py" in terminal. This will generate the main.lp
 	4. ) run major_reasoning.lp: 
-		Execute scasp major_reasoning.lp -s0 > output.txt. This will produce a output.txt from prolog reasoning
-	5 .) run final_output.py: 
-		Use Python version 3, execute " python final_output.py" in terminal. This will generate final_output.txt.  
+		Execute scasp major_reasoning.lp -s0 > output.txt. This will produce a output.txt from prolog reasoning.
+	5. ) run final_output.py: 
+		Using Python version 3 or later, execute "python final_output.py" in terminal. This will generate final_output.txt.  
 	6. ) Result:
-		The final result will be stores in the file final_output.txt. 
+		The final result will be stored in the file final_output.txt. 
 
 
 III.)  Caveats: 
-	1.) The input file have a limit to its choices and inputting format(e.g. as mentioned above). 
+	1.) The input file have a limit to its choices and inputting format (e.g. as mentioned above). 
 	2.) This program gathers data and establishes relation between each courses directly from course catalog, to ensuring its accuracy, it might generate up to few thousand rules. Thus this program generally have a longer run time. 
 	3. All files must be under the same directory, other wise it is vulnerable to errors. 
-	
