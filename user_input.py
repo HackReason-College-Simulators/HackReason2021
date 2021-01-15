@@ -3,14 +3,14 @@ name = input("Name: ")
 major = input("Preferred Major: ")
 double_major = input("Willing to double major: ")
 
-#User will have to input their level of interest in various hard skills needed for ECS (either low, med, or high)
-math_interest = input("Interest in Math: ")
-programming_interest = input("Interest in Programming: ")
-circuitry_interest = input("Interest in Circuitry: ")
-construction_interest = input("Interest in Construction: ")
-sciences_interest = input("Interest in Sciences: ")
-comp_networks_interest = input("Interest in Computer Networking: ")
-robotics_interest = input("Interest in Robotics: ")
+#User will have to answer yes or no to the following questions
+math_interest = input("Are you interested in Math: ")
+programming_interest = input("Are you interested in Programming: ")
+circuitry_interest = input("Are you interested in Circuitry: ")
+construction_interest = input("Are you interested in Construction: ")
+sciences_interest = input("Are you interested in Sciences: ")
+comp_networks_interest = input("Are you interested in Computer Networking: ")
+robotics_interest = input("Are you interested in Robotics: ")
 
 #User will have to input any earned AP credits and their scores (eg. physcMec-5). Type in the keyword none to proceed to the next step
 available_ap_credits = ['lang', 'lit', 'usgovt', 'macroecon', 'microecon', 'ushist', 'chem', 'calcab', 'calcbc', 'physcMec', 'physcEM', 'csa']
@@ -33,14 +33,21 @@ if double_major.lower() == "yes":
     f.write("\n" + "doublemajor.")
 else:
     f.write("\n" + "-doublemajor.")
-        
-f.write("\n" + "interest(math, " + math_interest.lower() + ").")
-f.write("\n" + "interest(prog, " + programming_interest.lower() + ").")
-f.write("\n" + "interest(circ, " + circuitry_interest.lower() + ").")
-f.write("\n" + "interest(const, " + construction_interest.lower() + ").")
-f.write("\n" + "interest(sci, " + sciences_interest.lower() + ").")
-f.write("\n" + "interest(compnet, " + comp_networks_interest.lower() + ").")
-f.write("\n" + "interest(robot, " + robotics_interest.lower() + ").")
+
+if math_interest.lower() == "yes":
+    f.write("\n" + "interest(math).")
+if programming_interest.lower() == "yes":
+    f.write("\n" + "interest(prog).")
+if circuitry_interest.lower() == "yes":
+    f.write("\n" + "interest(circ).")
+if construction_interest.lower() == "yes":
+    f.write("\n" + "interest(const).")
+if sciences_interest.lower() == "yes":
+    f.write("\n" + "interest(sci).")
+if comp_networks_interest.lower() == "yes":
+    f.write("\n" + "interest(compnet).")
+if robotics_interest.lower() == "yes":
+    f.write("\n" + "interest(robot).")                
 
 #Will output the AP credits that can be used at UTD
 for index in range(len(user_ap_credits)):
