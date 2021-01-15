@@ -2,7 +2,7 @@
 I.) Included files: 
 	(All files must be under same directory)
 	1. README		---	This file
-	2. user_input.py		---	Python script that parses input.txt and generate input.lp
+	2. user_input.py	---	Python script that parses input.txt and generate input.lp
 	3. main.py		---	Python script that writes main.lp, collecting all course catalog from UTD course catalog website
 	4. input.txt		---	Sample input file that used to generate input.lp
 	5. input.lp 		--- 	Sample prolog rules that generated from input.py 
