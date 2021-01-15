@@ -17,7 +17,7 @@ I.) Included files:
 II.) Usage: 
 	
 	1. ) Create or edit input.txt: 
-		In uinput.txt, select a major from (cs,ce,se,ee,bmen,mech) and state if one has one or more interests in(math, circuitry, construction, science, programming, comp_networks, robotics ) 
+		In input.txt, select a major from (cs,ce,se,ee,bmen,mech) and state if one has one or more interests in(math, circuitry, construction, science, programming, comp_networks, robotics ) 
 	2. ) run user_input.py: 
 		Using Python version 3, execute "python user_input.py" in terminal. This will generate input.lp    
 	3. ) run main.py: 
