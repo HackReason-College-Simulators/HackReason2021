@@ -1,0 +1,5800 @@
+QUERY:?- n_recommend(A),major(B).
+
+	ANSWER:	1 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = rhet1302 
+B = cs
+
+
+	ANSWER:	2 (in 62.5 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = rhet1302 
+B = se
+
+
+	ANSWER:	3 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = govt2305 
+B = cs
+
+
+	ANSWER:	4 (in 62.5 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = govt2305 
+B = se
+
+
+	ANSWER:	5 (in 62.5 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = hist1301 
+B = cs
+
+
+	ANSWER:	6 (in 109.375 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = hist1301 
+B = se
+
+
+	ANSWER:	7 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = hist1302 
+B = cs
+
+
+	ANSWER:	8 (in 62.5 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = hist1302 
+B = se
+
+
+	ANSWER:	9 (in 15.625 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = math2414 
+B = cs
+
+
+	ANSWER:	10 (in 78.125 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = math2414 
+B = se
+
+
+	ANSWER:	11 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs1336 
+B = cs
+
+
+	ANSWER:	12 (in 62.5 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs1336 
+B = se
+
+
+	ANSWER:	13 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = math2414 
+B = cs
+
+
+	ANSWER:	14 (in 62.5 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = math2414 
+B = se
+
+
+	ANSWER:	15 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = math2413 
+B = cs
+
+
+	ANSWER:	16 (in 62.5 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = math2413 
+B = se
+
+
+	ANSWER:	17 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = rhet1302 
+B = cs
+
+
+	ANSWER:	18 (in 78.125 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = rhet1302 
+B = se
+
+
+	ANSWER:	19 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs1336 
+B = cs
+
+
+	ANSWER:	20 (in 46.875 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs1336 
+B = se
+
+
+	ANSWER:	21 (in 46.875 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs1337 
+B = cs
+
+
+	ANSWER:	22 (in 62.5 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs1337 
+B = se
+
+
+	ANSWER:	23 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs1337 
+B = cs
+
+
+	ANSWER:	24 (in 62.5 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs1337 
+B = se
+
+
+	ANSWER:	25 (in 46.875 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = bmen1100 
+B = cs
+
+
+	ANSWER:	26 (in 93.75 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = bmen1100 
+B = se
+
+
+	ANSWER:	27 (in 359.375 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs1134 
+B = cs
+
+
+	ANSWER:	28 (in 78.125 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs1134 
+B = se
+
+
+	ANSWER:	29 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs1136 
+B = cs
+
+
+	ANSWER:	30 (in 93.75 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs1136 
+B = se
+
+
+	ANSWER:	31 (in 0.0 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs1334 
+B = cs
+
+
+	ANSWER:	32 (in 78.125 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs1334 
+B = se
+
+
+	ANSWER:	33 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs1334 
+B = cs
+
+
+	ANSWER:	34 (in 78.125 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs1334 
+B = se
+
+
+	ANSWER:	35 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs1336 
+B = cs
+
+
+	ANSWER:	36 (in 109.375 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs1336 
+B = se
+
+
+	ANSWER:	37 (in 46.875 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = bmen1100 
+B = cs
+
+
+	ANSWER:	38 (in 93.75 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = bmen1100 
+B = se
+
+
+	ANSWER:	39 (in 15.625 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce1100 
+B = cs
+
+
+	ANSWER:	40 (in 78.125 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce1100 
+B = se
+
+
+	ANSWER:	41 (in 62.5 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ee1100 
+B = cs
+
+
+	ANSWER:	42 (in 62.5 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ee1100 
+B = se
+
+
+	ANSWER:	43 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = mech1100 
+B = cs
+
+
+	ANSWER:	44 (in 78.125 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = mech1100 
+B = se
+
+
+	ANSWER:	45 (in 46.875 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce1337 
+B = cs
+
+
+	ANSWER:	46 (in 78.125 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce1337 
+B = se
+
+
+	ANSWER:	47 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs1335 
+B = cs
+
+
+	ANSWER:	48 (in 125.0 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs1335 
+B = se
+
+
+	ANSWER:	49 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs1335 
+B = cs
+
+
+	ANSWER:	50 (in 62.5 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs1335 
+B = se
+
+
+	ANSWER:	51 (in 15.625 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs1337 
+B = cs
+
+
+	ANSWER:	52 (in 109.375 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs1337 
+B = se
+
+
+	ANSWER:	53 (in 46.875 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce1337 
+B = cs
+
+
+	ANSWER:	54 (in 109.375 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce1337 
+B = se
+
+
+	ANSWER:	55 (in 15.625 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce1337 
+B = cs
+
+
+	ANSWER:	56 (in 62.5 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce1337 
+B = se
+
+
+	ANSWER:	57 (in 46.875 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce2305 
+B = cs
+
+
+	ANSWER:	58 (in 78.125 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce2305 
+B = se
+
+
+	ANSWER:	59 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce2336 
+B = cs
+
+
+	ANSWER:	60 (in 109.375 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce2336 
+B = se
+
+
+	ANSWER:	61 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs2335 
+B = cs
+
+
+	ANSWER:	62 (in 93.75 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs2335 
+B = se
+
+
+	ANSWER:	63 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs2336 
+B = cs
+
+
+	ANSWER:	64 (in 93.75 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs2336 
+B = se
+
+
+	ANSWER:	65 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs2335 
+B = cs
+
+
+	ANSWER:	66 (in 93.75 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs2335 
+B = se
+
+
+	ANSWER:	67 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs2337 
+B = cs
+
+
+	ANSWER:	68 (in 156.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs2337 
+B = se
+
+
+	ANSWER:	69 (in 62.5 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs2336 
+B = cs
+
+
+	ANSWER:	70 (in 109.375 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs2336 
+B = se
+
+
+	ANSWER:	71 (in 15.625 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs2337 
+B = cs
+
+
+	ANSWER:	72 (in 109.375 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs2337 
+B = se
+
+
+	ANSWER:	73 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce2336 
+B = cs
+
+
+	ANSWER:	74 (in 93.75 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce2336 
+B = se
+
+
+	ANSWER:	75 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce2336 
+B = cs
+
+
+	ANSWER:	76 (in 78.125 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce2336 
+B = se
+
+
+	ANSWER:	77 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs2337 
+B = cs
+
+
+	ANSWER:	78 (in 93.75 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs2337 
+B = se
+
+
+	ANSWER:	79 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs2336 
+B = cs
+
+
+	ANSWER:	80 (in 62.5 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs2336 
+B = se
+
+
+	ANSWER:	81 (in 46.875 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce2336 
+B = cs
+
+
+	ANSWER:	82 (in 78.125 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce2336 
+B = se
+
+
+	ANSWER:	83 (in 46.875 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs2340 
+B = cs
+
+
+	ANSWER:	84 (in 62.5 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs2340 
+B = se
+
+
+	ANSWER:	85 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se2340 
+B = cs
+
+
+	ANSWER:	86 (in 93.75 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se2340 
+B = se
+
+
+	ANSWER:	87 (in 46.875 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce4304 
+B = cs
+
+
+	ANSWER:	88 (in 78.125 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce4304 
+B = se
+
+
+	ANSWER:	89 (in 46.875 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ee4304 
+B = cs
+
+
+	ANSWER:	90 (in 78.125 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ee4304 
+B = se
+
+
+	ANSWER:	91 (in 46.875 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs2340 
+B = cs
+
+
+	ANSWER:	92 (in 78.125 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs2340 
+B = se
+
+
+	ANSWER:	93 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se2340 
+B = cs
+
+
+	ANSWER:	94 (in 62.5 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se2340 
+B = se
+
+
+	ANSWER:	95 (in 46.875 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs3305 
+B = cs
+
+
+	ANSWER:	96 (in 62.5 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs3305 
+B = se
+
+
+	ANSWER:	97 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se3306 
+B = cs
+
+
+	ANSWER:	98 (in 62.5 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se3306 
+B = se
+
+
+	ANSWER:	99 (in 46.875 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs3162 
+B = cs
+
+
+	ANSWER:	100 (in 78.125 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs3162 
+B = se
+
+
+	ANSWER:	101 (in 15.625 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se3162 
+B = cs
+
+
+	ANSWER:	102 (in 93.75 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se3162 
+B = se
+
+
+	ANSWER:	103 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce3345 
+B = cs
+
+
+	ANSWER:	104 (in 93.75 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce3345 
+B = se
+
+
+	ANSWER:	105 (in 46.875 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs3345 
+B = cs
+
+
+	ANSWER:	106 (in 46.875 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs3345 
+B = se
+
+
+	ANSWER:	107 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se3345 
+B = cs
+
+
+	ANSWER:	108 (in 93.75 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se3345 
+B = se
+
+
+	ANSWER:	109 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce3354 
+B = cs
+
+
+	ANSWER:	110 (in 93.75 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce3354 
+B = se
+
+
+	ANSWER:	111 (in 62.5 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs3354 
+B = cs
+
+
+	ANSWER:	112 (in 62.5 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs3354 
+B = se
+
+
+	ANSWER:	113 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se3354 
+B = cs
+
+
+	ANSWER:	114 (in 78.125 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se3354 
+B = se
+
+
+	ANSWER:	115 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce2336 
+B = cs
+
+
+	ANSWER:	116 (in 78.125 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce2336 
+B = se
+
+
+	ANSWER:	117 (in 46.875 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs3333 
+B = cs
+
+
+	ANSWER:	118 (in 93.75 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs3333 
+B = se
+
+
+	ANSWER:	119 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs2336 
+B = cs
+
+
+	ANSWER:	120 (in 46.875 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs2336 
+B = se
+
+
+	ANSWER:	121 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs3333 
+B = cs
+
+
+	ANSWER:	122 (in 93.75 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs3333 
+B = se
+
+
+	ANSWER:	123 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs2337 
+B = cs
+
+
+	ANSWER:	124 (in 78.125 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs2337 
+B = se
+
+
+	ANSWER:	125 (in 62.5 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs3341 
+B = cs
+
+
+	ANSWER:	126 (in 62.5 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs3341 
+B = se
+
+
+	ANSWER:	127 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se3341 
+B = cs
+
+
+	ANSWER:	128 (in 78.125 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se3341 
+B = se
+
+
+	ANSWER:	129 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = stat3341 
+B = cs
+
+
+	ANSWER:	130 (in 93.75 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = stat3341 
+B = se
+
+
+	ANSWER:	131 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = engr3341 
+B = cs
+
+
+	ANSWER:	132 (in 78.125 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = engr3341 
+B = se
+
+
+	ANSWER:	133 (in 78.125 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs3341 
+B = cs
+
+
+	ANSWER:	134 (in 62.5 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs3341 
+B = se
+
+
+	ANSWER:	135 (in 15.625 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se3341 
+B = cs
+
+
+	ANSWER:	136 (in 93.75 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se3341 
+B = se
+
+
+	ANSWER:	137 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = stat3341 
+B = cs
+
+
+	ANSWER:	138 (in 93.75 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = stat3341 
+B = se
+
+
+	ANSWER:	139 (in 46.875 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs3377 
+B = cs
+
+
+	ANSWER:	140 (in 78.125 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs3377 
+B = se
+
+
+	ANSWER:	141 (in 15.625 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se3377 
+B = cs
+
+
+	ANSWER:	142 (in 62.5 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se3377 
+B = se
+
+
+	ANSWER:	143 (in 46.875 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce3320 
+B = cs
+
+
+	ANSWER:	144 (in 62.5 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce3320 
+B = se
+
+
+	ANSWER:	145 (in 46.875 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ee3320 
+B = cs
+
+
+	ANSWER:	146 (in 171.875 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ee3320 
+B = se
+
+
+	ANSWER:	147 (in 46.875 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cgs4314 
+B = cs
+
+
+	ANSWER:	148 (in 109.375 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cgs4314 
+B = se
+
+
+	ANSWER:	149 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cgs4315 
+B = cs
+
+
+	ANSWER:	150 (in 93.75 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cgs4315 
+B = se
+
+
+	ANSWER:	151 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = math4334 
+B = cs
+
+
+	ANSWER:	152 (in 93.75 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = math4334 
+B = se
+
+
+	ANSWER:	153 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce4337 
+B = cs
+
+
+	ANSWER:	154 (in 78.125 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce4337 
+B = se
+
+
+	ANSWER:	155 (in 78.125 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs4347 
+B = cs
+
+
+	ANSWER:	156 (in 109.375 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs4347 
+B = se
+
+
+	ANSWER:	157 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se4347 
+B = cs
+
+
+	ANSWER:	158 (in 78.125 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se4347 
+B = se
+
+
+	ANSWER:	159 (in 62.5 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs4348 
+B = cs
+
+
+	ANSWER:	160 (in 78.125 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs4348 
+B = se
+
+
+	ANSWER:	161 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se4348 
+B = cs
+
+
+	ANSWER:	162 (in 78.125 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se4348 
+B = se
+
+
+	ANSWER:	163 (in 15.625 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cgs4352 
+B = cs
+
+
+	ANSWER:	164 (in 78.125 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cgs4352 
+B = se
+
+
+	ANSWER:	165 (in 46.875 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cgs4353 
+B = cs
+
+
+	ANSWER:	166 (in 62.5 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cgs4353 
+B = se
+
+
+	ANSWER:	167 (in 46.875 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs4376 
+B = cs
+
+
+	ANSWER:	168 (in 62.5 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs4376 
+B = se
+
+
+	ANSWER:	169 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se4376 
+B = cs
+
+
+	ANSWER:	170 (in 78.125 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se4376 
+B = se
+
+
+	ANSWER:	171 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce4390 
+B = cs
+
+
+	ANSWER:	172 (in 62.5 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce4390 
+B = se
+
+
+	ANSWER:	173 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ee4390 
+B = cs
+
+
+	ANSWER:	174 (in 78.125 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ee4390 
+B = se
+
+
+	ANSWER:	175 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce4390 
+B = cs
+
+
+	ANSWER:	176 (in 93.75 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce4390 
+B = se
+
+
+	ANSWER:	177 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = math4475 
+B = cs
+
+
+	ANSWER:	178 (in 109.375 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = math4475 
+B = se
+
+
+	ANSWER:	179 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = stat4475 
+B = cs
+
+
+	ANSWER:	180 (in 93.75 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = stat4475 
+B = se
+
+
+	ANSWER:	181 (in 62.5 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ee1100 
+B = cs
+
+
+	ANSWER:	182 (in 93.75 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ee1100 
+B = se
+
+
+	ANSWER:	183 (in 156.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ee3320 
+B = cs
+
+
+	ANSWER:	184 (in 62.5 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ee3320 
+B = se
+
+
+	ANSWER:	185 (in 265.625 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ee4304 
+B = cs
+
+
+	ANSWER:	186 (in 93.75 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ee4304 
+B = se
+
+
+	ANSWER:	187 (in 78.125 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ee4304 
+B = cs
+
+
+	ANSWER:	188 (in 78.125 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ee4304 
+B = se
+
+
+	ANSWER:	189 (in 218.75 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = mech1100 
+B = cs
+
+
+	ANSWER:	190 (in 93.75 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = mech1100 
+B = se
+
+
+	ANSWER:	191 (in 156.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se2340 
+B = cs
+
+
+	ANSWER:	192 (in 93.75 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se2340 
+B = se
+
+
+	ANSWER:	193 (in 46.875 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs2340 
+B = cs
+
+
+	ANSWER:	194 (in 46.875 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs2340 
+B = se
+
+
+	ANSWER:	195 (in 62.5 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce4304 
+B = cs
+
+
+	ANSWER:	196 (in 62.5 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce4304 
+B = se
+
+
+	ANSWER:	197 (in 46.875 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ee4304 
+B = cs
+
+
+	ANSWER:	198 (in 62.5 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ee4304 
+B = se
+
+
+	ANSWER:	199 (in 15.625 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se2340 
+B = cs
+
+
+	ANSWER:	200 (in 109.375 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se2340 
+B = se
+
+
+	ANSWER:	201 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs2340 
+B = cs
+
+
+	ANSWER:	202 (in 46.875 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs2340 
+B = se
+
+
+	ANSWER:	203 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se3162 
+B = cs
+
+
+	ANSWER:	204 (in 78.125 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se3162 
+B = se
+
+
+	ANSWER:	205 (in 46.875 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs3162 
+B = cs
+
+
+	ANSWER:	206 (in 62.5 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs3162 
+B = se
+
+
+	ANSWER:	207 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se3306 
+B = cs
+
+
+	ANSWER:	208 (in 78.125 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se3306 
+B = se
+
+
+	ANSWER:	209 (in 46.875 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs3305 
+B = cs
+
+
+	ANSWER:	210 (in 78.125 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs3305 
+B = se
+
+
+	ANSWER:	211 (in 15.625 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se3341 
+B = cs
+
+
+	ANSWER:	212 (in 78.125 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se3341 
+B = se
+
+
+	ANSWER:	213 (in 46.875 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs3341 
+B = cs
+
+
+	ANSWER:	214 (in 93.75 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs3341 
+B = se
+
+
+	ANSWER:	215 (in 46.875 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = stat3341 
+B = cs
+
+
+	ANSWER:	216 (in 62.5 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = stat3341 
+B = se
+
+
+	ANSWER:	217 (in 46.875 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = engr3341 
+B = cs
+
+
+	ANSWER:	218 (in 46.875 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = engr3341 
+B = se
+
+
+	ANSWER:	219 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se3341 
+B = cs
+
+
+	ANSWER:	220 (in 78.125 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se3341 
+B = se
+
+
+	ANSWER:	221 (in 46.875 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs3341 
+B = cs
+
+
+	ANSWER:	222 (in 62.5 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs3341 
+B = se
+
+
+	ANSWER:	223 (in 62.5 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = stat3341 
+B = cs
+
+
+	ANSWER:	224 (in 46.875 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = stat3341 
+B = se
+
+
+	ANSWER:	225 (in 46.875 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce3345 
+B = cs
+
+
+	ANSWER:	226 (in 62.5 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce3345 
+B = se
+
+
+	ANSWER:	227 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se3345 
+B = cs
+
+
+	ANSWER:	228 (in 109.375 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se3345 
+B = se
+
+
+	ANSWER:	229 (in 109.375 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs3345 
+B = cs
+
+
+	ANSWER:	230 (in 78.125 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs3345 
+B = se
+
+
+	ANSWER:	231 (in 62.5 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce3354 
+B = cs
+
+
+	ANSWER:	232 (in 62.5 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce3354 
+B = se
+
+
+	ANSWER:	233 (in 15.625 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se3354 
+B = cs
+
+
+	ANSWER:	234 (in 78.125 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se3354 
+B = se
+
+
+	ANSWER:	235 (in 62.5 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs3354 
+B = cs
+
+
+	ANSWER:	236 (in 62.5 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs3354 
+B = se
+
+
+	ANSWER:	237 (in 15.625 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se3377 
+B = cs
+
+
+	ANSWER:	238 (in 93.75 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se3377 
+B = se
+
+
+	ANSWER:	239 (in 78.125 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs3377 
+B = cs
+
+
+	ANSWER:	240 (in 62.5 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs3377 
+B = se
+
+
+	ANSWER:	241 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se4347 
+B = cs
+
+
+	ANSWER:	242 (in 93.75 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se4347 
+B = se
+
+
+	ANSWER:	243 (in 46.875 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs4347 
+B = cs
+
+
+	ANSWER:	244 (in 46.875 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs4347 
+B = se
+
+
+	ANSWER:	245 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se4348 
+B = cs
+
+
+	ANSWER:	246 (in 93.75 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se4348 
+B = se
+
+
+	ANSWER:	247 (in 46.875 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs4348 
+B = cs
+
+
+	ANSWER:	248 (in 62.5 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs4348 
+B = se
+
+
+	ANSWER:	249 (in 15.625 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se4376 
+B = cs
+
+
+	ANSWER:	250 (in 93.75 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se4376 
+B = se
+
+
+	ANSWER:	251 (in 46.875 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs4376 
+B = cs
+
+
+	ANSWER:	252 (in 62.5 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs4376 
+B = se
+
+
+	ANSWER:	253 (in 46.875 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce1100 
+B = cs
+
+
+	ANSWER:	254 (in 93.75 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce1100 
+B = se
+
+
+	ANSWER:	255 (in 78.125 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce1337 
+B = cs
+
+
+	ANSWER:	256 (in 78.125 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce1337 
+B = se
+
+
+	ANSWER:	257 (in 15.625 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce1337 
+B = cs
+
+
+	ANSWER:	258 (in 78.125 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce1337 
+B = se
+
+
+	ANSWER:	259 (in 46.875 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce2305 
+B = cs
+
+
+	ANSWER:	260 (in 78.125 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce2305 
+B = se
+
+
+	ANSWER:	261 (in 46.875 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce2336 
+B = cs
+
+
+	ANSWER:	262 (in 93.75 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce2336 
+B = se
+
+
+	ANSWER:	263 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce2336 
+B = cs
+
+
+	ANSWER:	264 (in 93.75 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce2336 
+B = se
+
+
+	ANSWER:	265 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce2336 
+B = cs
+
+
+	ANSWER:	266 (in 62.5 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce2336 
+B = se
+
+
+	ANSWER:	267 (in 62.5 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce3320 
+B = cs
+
+
+	ANSWER:	268 (in 125.0 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce3320 
+B = se
+
+
+	ANSWER:	269 (in 203.125 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce3345 
+B = cs
+
+
+	ANSWER:	270 (in 125.0 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce3345 
+B = se
+
+
+	ANSWER:	271 (in 93.75 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce3345 
+B = cs
+
+
+	ANSWER:	272 (in 62.5 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce3345 
+B = se
+
+
+	ANSWER:	273 (in 46.875 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce3354 
+B = cs
+
+
+	ANSWER:	274 (in 78.125 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce3354 
+B = se
+
+
+	ANSWER:	275 (in 62.5 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce3354 
+B = cs
+
+
+	ANSWER:	276 (in 62.5 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce3354 
+B = se
+
+
+	ANSWER:	277 (in 109.375 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce4304 
+B = cs
+
+
+	ANSWER:	278 (in 109.375 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce4304 
+B = se
+
+
+	ANSWER:	279 (in 78.125 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce4304 
+B = cs
+
+
+	ANSWER:	280 (in 93.75 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce4304 
+B = se
+
+
+	ANSWER:	281 (in 109.375 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce4337 
+B = cs
+
+
+	ANSWER:	282 (in 156.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce4337 
+B = se
+
+
+	ANSWER:	283 (in 62.5 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce4390 
+B = cs
+
+
+	ANSWER:	284 (in 109.375 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce4390 
+B = se
+
+
+	ANSWER:	285 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce4390 
+B = cs
+
+
+	ANSWER:	286 (in 109.375 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce4390 
+B = se
+
+
+	ANSWER:	287 (in 62.5 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = bmen1100 
+B = cs
+
+
+	ANSWER:	288 (in 62.5 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = bmen1100 
+B = se
+
+
+	ANSWER:	289 (in 531.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs1136 
+B = cs
+
+
+	ANSWER:	290 (in 109.375 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs1136 
+B = se
+
+
+	ANSWER:	291 (in 46.875 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs1134 
+B = cs
+
+
+	ANSWER:	292 (in 109.375 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs1134 
+B = se
+
+
+	ANSWER:	293 (in 46.875 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs1336 
+B = cs
+
+
+	ANSWER:	294 (in 109.375 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs1336 
+B = se
+
+
+	ANSWER:	295 (in 46.875 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs1334 
+B = cs
+
+
+	ANSWER:	296 (in 125.0 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs1334 
+B = se
+
+
+	ANSWER:	297 (in 46.875 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs1334 
+B = cs
+
+
+	ANSWER:	298 (in 93.75 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs1334 
+B = se
+
+
+	ANSWER:	299 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = bmen1100 
+B = cs
+
+
+	ANSWER:	300 (in 93.75 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = bmen1100 
+B = se
+
+
+	ANSWER:	301 (in 46.875 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce1100 
+B = cs
+
+
+	ANSWER:	302 (in 109.375 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce1100 
+B = se
+
+
+	ANSWER:	303 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ee1100 
+B = cs
+
+
+	ANSWER:	304 (in 93.75 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ee1100 
+B = se
+
+
+	ANSWER:	305 (in 46.875 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = mech1100 
+B = cs
+
+
+	ANSWER:	306 (in 62.5 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = mech1100 
+B = se
+
+
+	ANSWER:	307 (in 46.875 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce1337 
+B = cs
+
+
+	ANSWER:	308 (in 109.375 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce1337 
+B = se
+
+
+	ANSWER:	309 (in 46.875 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs1337 
+B = cs
+
+
+	ANSWER:	310 (in 93.75 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs1337 
+B = se
+
+
+	ANSWER:	311 (in 78.125 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs1335 
+B = cs
+
+
+	ANSWER:	312 (in 93.75 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs1335 
+B = se
+
+
+	ANSWER:	313 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs1335 
+B = cs
+
+
+	ANSWER:	314 (in 78.125 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs1335 
+B = se
+
+
+	ANSWER:	315 (in 46.875 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce1337 
+B = cs
+
+
+	ANSWER:	316 (in 125.0 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce1337 
+B = se
+
+
+	ANSWER:	317 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce1337 
+B = cs
+
+
+	ANSWER:	318 (in 109.375 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce1337 
+B = se
+
+
+	ANSWER:	319 (in 46.875 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce2305 
+B = cs
+
+
+	ANSWER:	320 (in 140.625 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce2305 
+B = se
+
+
+	ANSWER:	321 (in 46.875 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce2336 
+B = cs
+
+
+	ANSWER:	322 (in 140.625 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce2336 
+B = se
+
+
+	ANSWER:	323 (in 62.5 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs2336 
+B = cs
+
+
+	ANSWER:	324 (in 140.625 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs2336 
+B = se
+
+
+	ANSWER:	325 (in 46.875 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs2335 
+B = cs
+
+
+	ANSWER:	326 (in 78.125 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs2335 
+B = se
+
+
+	ANSWER:	327 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs2337 
+B = cs
+
+
+	ANSWER:	328 (in 93.75 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs2337 
+B = se
+
+
+	ANSWER:	329 (in 15.625 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs2335 
+B = cs
+
+
+	ANSWER:	330 (in 109.375 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs2335 
+B = se
+
+
+	ANSWER:	331 (in 46.875 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs2337 
+B = cs
+
+
+	ANSWER:	332 (in 93.75 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs2337 
+B = se
+
+
+	ANSWER:	333 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs2336 
+B = cs
+
+
+	ANSWER:	334 (in 93.75 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs2336 
+B = se
+
+
+	ANSWER:	335 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce2336 
+B = cs
+
+
+	ANSWER:	336 (in 93.75 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce2336 
+B = se
+
+
+	ANSWER:	337 (in 46.875 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce2336 
+B = cs
+
+
+	ANSWER:	338 (in 93.75 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce2336 
+B = se
+
+
+	ANSWER:	339 (in 46.875 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs2336 
+B = cs
+
+
+	ANSWER:	340 (in 78.125 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs2336 
+B = se
+
+
+	ANSWER:	341 (in 46.875 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs2337 
+B = cs
+
+
+	ANSWER:	342 (in 78.125 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs2337 
+B = se
+
+
+	ANSWER:	343 (in 46.875 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce2336 
+B = cs
+
+
+	ANSWER:	344 (in 93.75 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce2336 
+B = se
+
+
+	ANSWER:	345 (in 46.875 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se2340 
+B = cs
+
+
+	ANSWER:	346 (in 109.375 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se2340 
+B = se
+
+
+	ANSWER:	347 (in 78.125 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs2340 
+B = cs
+
+
+	ANSWER:	348 (in 78.125 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs2340 
+B = se
+
+
+	ANSWER:	349 (in 15.625 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce4304 
+B = cs
+
+
+	ANSWER:	350 (in 109.375 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce4304 
+B = se
+
+
+	ANSWER:	351 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ee4304 
+B = cs
+
+
+	ANSWER:	352 (in 78.125 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ee4304 
+B = se
+
+
+	ANSWER:	353 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se2340 
+B = cs
+
+
+	ANSWER:	354 (in 125.0 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se2340 
+B = se
+
+
+	ANSWER:	355 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs2340 
+B = cs
+
+
+	ANSWER:	356 (in 62.5 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs2340 
+B = se
+
+
+	ANSWER:	357 (in 62.5 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se3306 
+B = cs
+
+
+	ANSWER:	358 (in 93.75 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se3306 
+B = se
+
+
+	ANSWER:	359 (in 78.125 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs3305 
+B = cs
+
+
+	ANSWER:	360 (in 62.5 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs3305 
+B = se
+
+
+	ANSWER:	361 (in 15.625 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se3162 
+B = cs
+
+
+	ANSWER:	362 (in 93.75 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se3162 
+B = se
+
+
+	ANSWER:	363 (in 46.875 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs3162 
+B = cs
+
+
+	ANSWER:	364 (in 46.875 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs3162 
+B = se
+
+
+	ANSWER:	365 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce3345 
+B = cs
+
+
+	ANSWER:	366 (in 125.0 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce3345 
+B = se
+
+
+	ANSWER:	367 (in 15.625 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se3345 
+B = cs
+
+
+	ANSWER:	368 (in 156.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se3345 
+B = se
+
+
+	ANSWER:	369 (in 62.5 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs3345 
+B = cs
+
+
+	ANSWER:	370 (in 125.0 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs3345 
+B = se
+
+
+	ANSWER:	371 (in 46.875 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce3354 
+B = cs
+
+
+	ANSWER:	372 (in 125.0 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce3354 
+B = se
+
+
+	ANSWER:	373 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se3354 
+B = cs
+
+
+	ANSWER:	374 (in 93.75 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se3354 
+B = se
+
+
+	ANSWER:	375 (in 62.5 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs3354 
+B = cs
+
+
+	ANSWER:	376 (in 125.0 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs3354 
+B = se
+
+
+	ANSWER:	377 (in 46.875 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce2336 
+B = cs
+
+
+	ANSWER:	378 (in 109.375 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce2336 
+B = se
+
+
+	ANSWER:	379 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs2336 
+B = cs
+
+
+	ANSWER:	380 (in 93.75 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs2336 
+B = se
+
+
+	ANSWER:	381 (in 78.125 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs3333 
+B = cs
+
+
+	ANSWER:	382 (in 93.75 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs3333 
+B = se
+
+
+	ANSWER:	383 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs2337 
+B = cs
+
+
+	ANSWER:	384 (in 93.75 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs2337 
+B = se
+
+
+	ANSWER:	385 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs3333 
+B = cs
+
+
+	ANSWER:	386 (in 93.75 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs3333 
+B = se
+
+
+	ANSWER:	387 (in 46.875 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se3341 
+B = cs
+
+
+	ANSWER:	388 (in 140.625 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se3341 
+B = se
+
+
+	ANSWER:	389 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs3341 
+B = cs
+
+
+	ANSWER:	390 (in 62.5 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs3341 
+B = se
+
+
+	ANSWER:	391 (in 46.875 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = stat3341 
+B = cs
+
+
+	ANSWER:	392 (in 109.375 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = stat3341 
+B = se
+
+
+	ANSWER:	393 (in 15.625 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = engr3341 
+B = cs
+
+
+	ANSWER:	394 (in 109.375 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = engr3341 
+B = se
+
+
+	ANSWER:	395 (in 46.875 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se3341 
+B = cs
+
+
+	ANSWER:	396 (in 109.375 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se3341 
+B = se
+
+
+	ANSWER:	397 (in 78.125 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs3341 
+B = cs
+
+
+	ANSWER:	398 (in 78.125 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs3341 
+B = se
+
+
+	ANSWER:	399 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = stat3341 
+B = cs
+
+
+	ANSWER:	400 (in 78.125 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = stat3341 
+B = se
+
+
+	ANSWER:	401 (in 15.625 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se3377 
+B = cs
+
+
+	ANSWER:	402 (in 78.125 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se3377 
+B = se
+
+
+	ANSWER:	403 (in 78.125 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs3377 
+B = cs
+
+
+	ANSWER:	404 (in 46.875 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs3377 
+B = se
+
+
+	ANSWER:	405 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce3320 
+B = cs
+
+
+	ANSWER:	406 (in 93.75 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce3320 
+B = se
+
+
+	ANSWER:	407 (in 0.0 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ee3320 
+B = cs
+
+
+	ANSWER:	408 (in 109.375 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ee3320 
+B = se
+
+
+	ANSWER:	409 (in 62.5 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cgs4314 
+B = cs
+
+
+	ANSWER:	410 (in 78.125 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cgs4314 
+B = se
+
+
+	ANSWER:	411 (in 15.625 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cgs4315 
+B = cs
+
+
+	ANSWER:	412 (in 62.5 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cgs4315 
+B = se
+
+
+	ANSWER:	413 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = math4334 
+B = cs
+
+
+	ANSWER:	414 (in 125.0 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = math4334 
+B = se
+
+
+	ANSWER:	415 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce4337 
+B = cs
+
+
+	ANSWER:	416 (in 78.125 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce4337 
+B = se
+
+
+	ANSWER:	417 (in 15.625 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se4347 
+B = cs
+
+
+	ANSWER:	418 (in 78.125 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se4347 
+B = se
+
+
+	ANSWER:	419 (in 78.125 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs4347 
+B = cs
+
+
+	ANSWER:	420 (in 62.5 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs4347 
+B = se
+
+
+	ANSWER:	421 (in 46.875 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se4348 
+B = cs
+
+
+	ANSWER:	422 (in 109.375 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se4348 
+B = se
+
+
+	ANSWER:	423 (in 46.875 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs4348 
+B = cs
+
+
+	ANSWER:	424 (in 62.5 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs4348 
+B = se
+
+
+	ANSWER:	425 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cgs4352 
+B = cs
+
+
+	ANSWER:	426 (in 140.625 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cgs4352 
+B = se
+
+
+	ANSWER:	427 (in 46.875 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cgs4353 
+B = cs
+
+
+	ANSWER:	428 (in 62.5 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cgs4353 
+B = se
+
+
+	ANSWER:	429 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se4376 
+B = cs
+
+
+	ANSWER:	430 (in 140.625 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se4376 
+B = se
+
+
+	ANSWER:	431 (in 93.75 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs4376 
+B = cs
+
+
+	ANSWER:	432 (in 109.375 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs4376 
+B = se
+
+
+	ANSWER:	433 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce4390 
+B = cs
+
+
+	ANSWER:	434 (in 109.375 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce4390 
+B = se
+
+
+	ANSWER:	435 (in 62.5 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ee4390 
+B = cs
+
+
+	ANSWER:	436 (in 109.375 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ee4390 
+B = se
+
+
+	ANSWER:	437 (in 46.875 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce4390 
+B = cs
+
+
+	ANSWER:	438 (in 109.375 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce4390 
+B = se
+
+
+	ANSWER:	439 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = math4475 
+B = cs
+
+
+	ANSWER:	440 (in 78.125 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = math4475 
+B = se
+
+
+	ANSWER:	441 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = stat4475 
+B = cs
+
+
+	ANSWER:	442 (in 93.75 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = stat4475 
+B = se
+
+
+	ANSWER:	443 (in 109.375 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ee1100 
+B = cs
+
+
+	ANSWER:	444 (in 109.375 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ee1100 
+B = se
+
+
+	ANSWER:	445 (in 156.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ee3320 
+B = cs
+
+
+	ANSWER:	446 (in 93.75 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ee3320 
+B = se
+
+
+	ANSWER:	447 (in 265.625 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ee4304 
+B = cs
+
+
+	ANSWER:	448 (in 93.75 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ee4304 
+B = se
+
+
+	ANSWER:	449 (in 62.5 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ee4304 
+B = cs
+
+
+	ANSWER:	450 (in 78.125 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ee4304 
+B = se
+
+
+	ANSWER:	451 (in 312.5 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = mech1100 
+B = cs
+
+
+	ANSWER:	452 (in 125.0 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = mech1100 
+B = se
+
+
+	ANSWER:	453 (in 218.75 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs2340 
+B = cs
+
+
+	ANSWER:	454 (in 78.125 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs2340 
+B = se
+
+
+	ANSWER:	455 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se2340 
+B = cs
+
+
+	ANSWER:	456 (in 93.75 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se2340 
+B = se
+
+
+	ANSWER:	457 (in 78.125 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce4304 
+B = cs
+
+
+	ANSWER:	458 (in 93.75 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce4304 
+B = se
+
+
+	ANSWER:	459 (in 78.125 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ee4304 
+B = cs
+
+
+	ANSWER:	460 (in 62.5 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ee4304 
+B = se
+
+
+	ANSWER:	461 (in 78.125 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs2340 
+B = cs
+
+
+	ANSWER:	462 (in 62.5 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs2340 
+B = se
+
+
+	ANSWER:	463 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se2340 
+B = cs
+
+
+	ANSWER:	464 (in 109.375 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se2340 
+B = se
+
+
+	ANSWER:	465 (in 78.125 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs3162 
+B = cs
+
+
+	ANSWER:	466 (in 93.75 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs3162 
+B = se
+
+
+	ANSWER:	467 (in 62.5 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se3162 
+B = cs
+
+
+	ANSWER:	468 (in 140.625 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se3162 
+B = se
+
+
+	ANSWER:	469 (in 62.5 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs3305 
+B = cs
+
+
+	ANSWER:	470 (in 78.125 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs3305 
+B = se
+
+
+	ANSWER:	471 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se3306 
+B = cs
+
+
+	ANSWER:	472 (in 125.0 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se3306 
+B = se
+
+
+	ANSWER:	473 (in 62.5 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs3341 
+B = cs
+
+
+	ANSWER:	474 (in 78.125 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs3341 
+B = se
+
+
+	ANSWER:	475 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se3341 
+B = cs
+
+
+	ANSWER:	476 (in 109.375 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se3341 
+B = se
+
+
+	ANSWER:	477 (in 62.5 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = stat3341 
+B = cs
+
+
+	ANSWER:	478 (in 93.75 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = stat3341 
+B = se
+
+
+	ANSWER:	479 (in 62.5 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = engr3341 
+B = cs
+
+
+	ANSWER:	480 (in 93.75 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = engr3341 
+B = se
+
+
+	ANSWER:	481 (in 62.5 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs3341 
+B = cs
+
+
+	ANSWER:	482 (in 93.75 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs3341 
+B = se
+
+
+	ANSWER:	483 (in 15.625 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se3341 
+B = cs
+
+
+	ANSWER:	484 (in 93.75 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se3341 
+B = se
+
+
+	ANSWER:	485 (in 93.75 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = stat3341 
+B = cs
+
+
+	ANSWER:	486 (in 62.5 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = stat3341 
+B = se
+
+
+	ANSWER:	487 (in 93.75 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce3345 
+B = cs
+
+
+	ANSWER:	488 (in 78.125 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce3345 
+B = se
+
+
+	ANSWER:	489 (in 78.125 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs3345 
+B = cs
+
+
+	ANSWER:	490 (in 93.75 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs3345 
+B = se
+
+
+	ANSWER:	491 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se3345 
+B = cs
+
+
+	ANSWER:	492 (in 93.75 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se3345 
+B = se
+
+
+	ANSWER:	493 (in 62.5 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce3354 
+B = cs
+
+
+	ANSWER:	494 (in 78.125 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce3354 
+B = se
+
+
+	ANSWER:	495 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs3354 
+B = cs
+
+
+	ANSWER:	496 (in 109.375 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs3354 
+B = se
+
+
+	ANSWER:	497 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se3354 
+B = cs
+
+
+	ANSWER:	498 (in 93.75 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se3354 
+B = se
+
+
+	ANSWER:	499 (in 62.5 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs3377 
+B = cs
+
+
+	ANSWER:	500 (in 62.5 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs3377 
+B = se
+
+
+	ANSWER:	501 (in 15.625 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se3377 
+B = cs
+
+
+	ANSWER:	502 (in 109.375 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se3377 
+B = se
+
+
+	ANSWER:	503 (in 46.875 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs4347 
+B = cs
+
+
+	ANSWER:	504 (in 93.75 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs4347 
+B = se
+
+
+	ANSWER:	505 (in 46.875 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se4347 
+B = cs
+
+
+	ANSWER:	506 (in 78.125 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se4347 
+B = se
+
+
+	ANSWER:	507 (in 46.875 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs4348 
+B = cs
+
+
+	ANSWER:	508 (in 78.125 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs4348 
+B = se
+
+
+	ANSWER:	509 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se4348 
+B = cs
+
+
+	ANSWER:	510 (in 109.375 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se4348 
+B = se
+
+
+	ANSWER:	511 (in 62.5 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs4376 
+B = cs
+
+
+	ANSWER:	512 (in 93.75 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs4376 
+B = se
+
+
+	ANSWER:	513 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se4376 
+B = cs
+
+
+	ANSWER:	514 (in 140.625 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = se4376 
+B = se
+
+
+	ANSWER:	515 (in 156.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce1100 
+B = cs
+
+
+	ANSWER:	516 (in 156.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce1100 
+B = se
+
+
+	ANSWER:	517 (in 109.375 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce1337 
+B = cs
+
+
+	ANSWER:	518 (in 140.625 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce1337 
+B = se
+
+
+	ANSWER:	519 (in 46.875 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce1337 
+B = cs
+
+
+	ANSWER:	520 (in 93.75 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce1337 
+B = se
+
+
+	ANSWER:	521 (in 62.5 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce2305 
+B = cs
+
+
+	ANSWER:	522 (in 156.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce2305 
+B = se
+
+
+	ANSWER:	523 (in 62.5 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce2336 
+B = cs
+
+
+	ANSWER:	524 (in 171.875 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce2336 
+B = se
+
+
+	ANSWER:	525 (in 46.875 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce2336 
+B = cs
+
+
+	ANSWER:	526 (in 125.0 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce2336 
+B = se
+
+
+	ANSWER:	527 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce2336 
+B = cs
+
+
+	ANSWER:	528 (in 140.625 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce2336 
+B = se
+
+
+	ANSWER:	529 (in 46.875 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce3320 
+B = cs
+
+
+	ANSWER:	530 (in 140.625 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce3320 
+B = se
+
+
+	ANSWER:	531 (in 218.75 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce3345 
+B = cs
+
+
+	ANSWER:	532 (in 125.0 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce3345 
+B = se
+
+
+	ANSWER:	533 (in 109.375 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce3345 
+B = cs
+
+
+	ANSWER:	534 (in 93.75 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce3345 
+B = se
+
+
+	ANSWER:	535 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce3354 
+B = cs
+
+
+	ANSWER:	536 (in 171.875 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce3354 
+B = se
+
+
+	ANSWER:	537 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce3354 
+B = cs
+
+
+	ANSWER:	538 (in 93.75 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce3354 
+B = se
+
+
+	ANSWER:	539 (in 93.75 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce4304 
+B = cs
+
+
+	ANSWER:	540 (in 93.75 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce4304 
+B = se
+
+
+	ANSWER:	541 (in 46.875 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce4304 
+B = cs
+
+
+	ANSWER:	542 (in 78.125 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce4304 
+B = se
+
+
+	ANSWER:	543 (in 78.125 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce4337 
+B = cs
+
+
+	ANSWER:	544 (in 171.875 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce4337 
+B = se
+
+
+	ANSWER:	545 (in 78.125 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce4390 
+B = cs
+
+
+	ANSWER:	546 (in 109.375 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce4390 
+B = se
+
+
+	ANSWER:	547 (in 62.5 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce4390 
+B = cs
+
+
+	ANSWER:	548 (in 93.75 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce4390 
+B = se
+
+
+	ANSWER:	549 (in 62.5 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs1334 
+B = cs
+
+
+	ANSWER:	550 (in 125.0 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs1334 
+B = se
+
+
+	ANSWER:	551 (in 46.875 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs1334 
+B = cs
+
+
+	ANSWER:	552 (in 125.0 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs1334 
+B = se
+
+
+	ANSWER:	553 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs1335 
+B = cs
+
+
+	ANSWER:	554 (in 78.125 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs1335 
+B = se
+
+
+	ANSWER:	555 (in 46.875 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs1335 
+B = cs
+
+
+	ANSWER:	556 (in 125.0 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs1335 
+B = se
+
+
+	ANSWER:	557 (in 62.5 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce1337 
+B = cs
+
+
+	ANSWER:	558 (in 78.125 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce1337 
+B = se
+
+
+	ANSWER:	559 (in 62.5 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce1337 
+B = cs
+
+
+	ANSWER:	560 (in 140.625 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce1337 
+B = se
+
+
+	ANSWER:	561 (in 46.875 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce1337 
+B = cs
+
+
+	ANSWER:	562 (in 125.0 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce1337 
+B = se
+
+
+	ANSWER:	563 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce1337 
+B = cs
+
+
+	ANSWER:	564 (in 125.0 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce1337 
+B = se
+
+
+	ANSWER:	565 (in 62.5 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs1334 
+B = cs
+
+
+	ANSWER:	566 (in 62.5 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs1334 
+B = se
+
+
+	ANSWER:	567 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs1334 
+B = cs
+
+
+	ANSWER:	568 (in 62.5 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs1334 
+B = se
+
+
+	ANSWER:	569 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs1335 
+B = cs
+
+
+	ANSWER:	570 (in 93.75 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs1335 
+B = se
+
+
+	ANSWER:	571 (in 15.625 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs1335 
+B = cs
+
+
+	ANSWER:	572 (in 109.375 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = cs1335 
+B = se
+
+
+	ANSWER:	573 (in 15.625 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce1337 
+B = cs
+
+
+	ANSWER:	574 (in 125.0 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce1337 
+B = se
+
+
+	ANSWER:	575 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce1337 
+B = cs
+
+
+	ANSWER:	576 (in 78.125 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce1337 
+B = se
+
+
+	ANSWER:	577 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce1337 
+B = cs
+
+
+	ANSWER:	578 (in 125.0 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce1337 
+B = se
+
+
+	ANSWER:	579 (in 31.25 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce1337 
+B = cs
+
+
+	ANSWER:	580 (in 78.125 ms)
+
+MODEL:
+{  }
+
+BINDINGS: 
+A = ce1337 
+B = se
