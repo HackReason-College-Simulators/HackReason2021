@@ -8,7 +8,7 @@ I.) Included files:
 	5. input.lp 		--- 	Sample prolog rules that generated from input.py 
 	6. major_reasoning.lp	---	Reasons major selection and connect all .lp files and produce output.txt
 	7. output_reasoning.lp	---	Reasons final output 
-	8. outpu.txt		---	products of major_reasoning.lp
+	8. output.txt		---	products of major_reasoning.lp
 	9. main.lp 		---	consists of all courses and their relations
 	10. final_output.py	---	parse output.txt into final_ourput.txt
 	11. final_output.txt	---	The final result from this program	
