@@ -23,7 +23,7 @@ II.) Usage:
 	3. ) run main.py: 
 		Using Python version 3, execute "python main.py" in terminal.This will generate the main.lp
 	4. ) run major_reasoning.lp: 
-		Execute major_reasoning.lp in terminal. This will produce a output.txt from prolog reasoning
+		Execute scasp major_reasoning.lp -s0 > output.txt. This will produce a output.txt from prolog reasoning
 	5 .) run final_output.py: 
 		Use Python version 3, execute " python final_output.py" in terminal. This will generate final_output.txt.  
 	6. ) Result:
